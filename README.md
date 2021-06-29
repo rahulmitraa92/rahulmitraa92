@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul
 - 👀 I’m interested in coding, be it salesforce or anything!
-- 🌱 I’m currently learning salesforce!
+- 🌱 I’m currently learning salesforce and JAVA!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
